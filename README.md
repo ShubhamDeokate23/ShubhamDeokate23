@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shubham Deokate</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdeokate23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdeokate23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamdeokate23" alt="shubhamdeokate23" /></a> </p>
 
-- 🔭 I’m currently working on **Java Development**
+- 🔭 I’m currently working on **Software Development and AI ML**
 
-- 🌱 I’m currently learning **java,dsa,python**
+- 🌱 I’m currently learning **AI ML**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 👨‍💻 All of my projects are available at [ShubhamDeokate23](ShubhamDeokate23)
 
-- 💬 Ask me about **ai,ml,java**
+- 💬 Ask me about **AI,ML,Java**
 
 - 📫 How to reach me **shubhamdeokate35@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bSNSZCVbAan0i5yym6JzD8tBPSnSk6ka/view?usp=sharing](https://drive.google.com/file/d/1bSNSZCVbAan0i5yym6JzD8tBPSnSk6ka/view?usp=sharing)
 
-- ⚡ Fun fact **code**
+- ⚡ Fun fact **Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
