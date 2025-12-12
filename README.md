@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdeokate23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdeokate23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamdeokate23" alt="shubhamdeokate23" /></a> </p>
-
 - 🔭 I’m currently working on **Software Development and AI ML**
 
 - 🌱 I’m currently learning **AI ML**
