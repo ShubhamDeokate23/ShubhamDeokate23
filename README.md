@@ -26,8 +26,8 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
 </a>
 
-<a href="https://instagram.com/shubhamdeokate4" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="30"/>
+<a href="https://instagram.com/shubhamdeokate4" target="_blank">
+<img align="center" src="https://img.icons8.com/color/48/instagram-new.png" height="30" width="30"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/shubhamdeikb7" target="blank">
@@ -68,34 +68,40 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamdeokate&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamDeokate23&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdeokate&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeokate23&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdeokate&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeokate23&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
 <h3 align="left">🚀 Currently Learning</h3>
 
-- Data Structures & Algorithms  
-- MERN Stack Development  
-- Artificial Intelligence & Machine Learning  
-- Drone Technology  
+• Data Structures & Algorithms  
+• MERN Stack Development  
+• Artificial Intelligence & Machine Learning  
+• Drone Technology  
 
 ---
 
 <h3 align="left">🎯 Goals</h3>
 
-- Crack product-based company placements  
-- Build AI-powered applications  
-- Work on drone automation systems  
+• Crack product-based company placements  
+• Build AI-powered applications  
+• Work on drone automation systems  
 
 ---
 
-⭐ **From [Shubham Deokate](https://github.com/shubhamdeokate)**
+⭐ From [ShubhamDeokate23](https://github.com/ShubhamDeokate23)
